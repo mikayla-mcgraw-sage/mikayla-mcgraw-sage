@@ -7,6 +7,8 @@
 - 📫 How to reach me: Discord, Slack, Email
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love raising chickens!
+- 🤔 By 2021 end my plan is to accomplish completing my BS in computer science while improving my understanding in the UI space with React and backend using C#
+- 🧭 In 5 years I hope to have a deeper understanding of UI technologies and Databases
 
 ## Skills
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
