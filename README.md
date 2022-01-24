@@ -5,9 +5,8 @@
 - 🔭 I’m currently working at Sage as a software engineer
 - 🌱 I’m currently learning React, TypeScript, Python
 - 📫 How to reach me: Discord, Slack, Email
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love raising chickens!
-- 🤔 By 2021 end my plan is to accomplish completing my BS in computer science while improving my understanding in the UI space with React and backend using C#
+- 🤔 By 2022 end my plan is to accomplish completing my BS in computer science while improving my understanding in the UI space with React and backend using C#
 - 🧭 In 5 years I hope to have a deeper understanding of backend technologies to further my growth as a full stack engineer
 
 ## Skills
