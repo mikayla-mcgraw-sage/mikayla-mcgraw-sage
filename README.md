@@ -25,4 +25,4 @@
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF?logo=Flask&logoColor=black)
 
 ## Activity
-![Mikayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaylamcgraw&show_icons=true&theme=radical)
+![Mikayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikayla-mcgraw-sage&show_icons=true&theme=radical)
